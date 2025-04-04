@@ -1,3 +1,3 @@
-# medienhaus-udk-berlin-de
+# medienhaus-webmail-frontend
 
-Simple frontend listing hyperlinks to Medienhaus-related tools and services via: [https://medienhaus.udk-berlin.de/](https://medienhaus.udk-berlin.de/)
+ Simple frontend for the Medienhaus webmail (Roundcube) instance via: [https://webmail.medienhaus.udk-berlin.de/](https://webmail.medienhaus.udk-berlin.de/)
