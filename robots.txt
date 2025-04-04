@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /*
+Allow: /$
+
+Host: webmail.medienhaus.udk-berlin.de
+Sitemap: https://webmail.medienhaus.udk-berlin.de/sitemap.txt
